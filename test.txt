@@ -1,3 +1,0 @@
-Hi there!
-Trying to learn git.
-Going good so far.
